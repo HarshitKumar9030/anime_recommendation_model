@@ -1,6 +1,8 @@
 
 # 🎬 Anime Recommendation System
 
+> 📅 Data as of 1st September 2024
+
 This project is an Anime Recommendation System that leverages a combination of content-based filtering and collaborative filtering to suggest anime based on user preferences. Built with Flask for the backend API and a sleek front end using Tailwind CSS and JavaScript. 🌟
 
 ## 📁 Project Structure
