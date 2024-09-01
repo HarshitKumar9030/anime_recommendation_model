@@ -1,0 +1,6 @@
+anime_model_data.csv
+collab_sim.npy
+tfidf_vectorizer.pkl
+content_sim.npy
+simulated_user_data.csv
+./test
