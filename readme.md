@@ -94,4 +94,4 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-For any inquiries or support, please contact [Harshit Kumar](mailto:harshitkumar9030@gmail.com), reach out on [Instagram](https://instagram.com/_harshit.xd), or visit [leoncyriac.me](https://leoncyriac.me) 🌐.
+For any inquiries or support, please contact [Harshit](mailto:harshitkumar9030@gmail.com), reach out on [Instagram](https://instagram.com/_harshit.xd), or visit [leoncyriac.me](https://leoncyriac.me) 🌐.
